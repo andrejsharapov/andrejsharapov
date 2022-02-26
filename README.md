@@ -2,11 +2,16 @@
 
 My stack of interest is 👇
 
-[![sharapov.dev][tw_img]][website]
-[![about me][more_img]][website]
+![tw_img]
 
-...now this includes PostCSS, TailwindCSS and PhpStorm ✌️ (no time to redo the picture 😁)
+<p align="right" style="display: flex;">
+  <a href="https://sharapov.dev/en/" title="EN">
+    <img src="https://img.shields.io/badge/en-1697f6.svg" alt="" />
+  </a>
+  <a href="https://sharapov.dev/ru/" title="RU">
+    <img src="https://img.shields.io/badge/ru-cc0e0e.svg" alt="" />
+  </a>
+</p>
 
-[tw_img]: https://pbs.twimg.com/profile_banners/987690814968074240/1599255560/1500x500
-[website]: https://sharapov.dev/en/
-[more_img]: https://img.shields.io/badge/click_here-about_me-1697f6.svg?color=1697f6
+[tw_img]: https://pbs.twimg.com/profile_banners/987690814968074240/1645911172/1500x500
+[website]: https://sharapov.dev/
