@@ -1,8 +1,13 @@
-# UI/UX Designer | Middle Frontend Developer | Unicorn 🦄.
+# UI/UX Designer | Middle Frontend Developer | Unicorn 🦄
 
 My stack of interest is 👇
 
 ![skills]
+
+<p>
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejsharapov&layout=compact&hide_border=true&theme=purple&langs_count=6&bg_color=ffffff00" alt="">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=andrejsharapov&show_icons=true&count_private=false&theme=purple&hide_border=true&hide=issues,stars&bg_color=ffffff00" alt="">
+</p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=andrejsharapov&color=lightgrey" alt="" />
